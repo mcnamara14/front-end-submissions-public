@@ -7,10 +7,10 @@
 # Basics
 
 #### Link to the GitHub Repository for the Project
-[BYOB]()
+[BYOB](https://github.com/mcnamara14/byob)
 
 #### Link to the Deployed Application
-[Heroku]()
+[Heroku](https://byob-tm-cs.herokuapp.com/)
 
 
 ## Completion
@@ -18,55 +18,61 @@
 #### Were you able to complete the base functionality?
 
 * Documented all available endpoints and their usage in the README?
-(Yes/No)
+(Yes)
 
 * Seeded a database with at least 2 tables and 1 relationship?
-(Yes/No)
+(Yes)
 
 * Had at least 10 endpoints that returned responses with appropriate status codes?
-(Yes/No)
+(Yes)
 
 * Secured at least 4 endpoints with JWTs?
-(Yes/No)
+(Yes)
 
 * Enforced a linter and wrote code that conformed to it?
-(Yes/No)
+(Yes)
 
 * Wrote tests for both happy and sad paths for each endpoint?
-(Yes/No)
+(Yes)
 
 * Setup automatic deployments with TravisCI to a production app on Heroku?
-(Yes/No)
+(Yes)
 
 # Code Quality
 
 #### Link to a specific block of your code on GitHub that you are proud of
-[happy code]()
+[happy code](https://github.com/mcnamara14/byob/blob/master/server.js#L45)
 
 * Why were you proud of this piece of code?
 
+Learning how express middleware works and implementing it into the project was a good feeling. 
+
 #### Link to a specific block of your code on GitHub that you feel not great about
-[sad code]()
+[sad code](https://github.com/mcnamara14/byob/blob/master/server.js#L172)
 
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
+At the moment I'm not sure how to refactor the code but because of the length I'm sure it can be. 
+
 #### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-[test suite]()
+[test suite]![image](https://user-images.githubusercontent.com/8752377/42706727-0af56102-8695-11e8-9d0a-8b19c9e5219f.png)
 
 #### Attach a screenshot or paste the output from your terminal of the result of your linter running.
 
-[linter output]()
+[linter output]![image](https://user-images.githubusercontent.com/8752377/42706790-3584b102-8695-11e8-84d5-535e111d7a03.png)
 
 #### Attach a screenshot of your TravisCI build passing
 
-[TravisCI build]()
+[TravisCI build]![image](https://user-images.githubusercontent.com/8752377/42706826-56d86178-8695-11e8-8dc1-93e00d56b077.png)
 
 -----
 
 #### Please feel free to ask any other questions or make any other statements below!
 
 Anything else you want to say?
+
+Although this project was more time consuming and difficult than I originally imagined I was extremely happy with the outcome and feel like I learned a ton about the backend in general and APIs. 
 
 -----
 
